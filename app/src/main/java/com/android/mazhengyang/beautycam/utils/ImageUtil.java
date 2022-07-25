@@ -186,7 +186,7 @@ public class ImageUtil {
         Log.d(TAG, "drawWaterMark: time=" + time + ", textWidth=" + textWidth);
         mCanvas.drawText(time, width - textWidth - 10, height - 10, textPaint);
 
-        mCanvas.save(Canvas.ALL_SAVE_FLAG);
+        //mCanvas.save(Canvas.ALL_SAVE_FLAG);
         mCanvas.restore();
 
         if (!src.isRecycled()) {

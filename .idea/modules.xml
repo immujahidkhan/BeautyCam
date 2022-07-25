@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BeautyCam.iml" filepath="$PROJECT_DIR$/.idea/modules/BeautyCam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GpuImage/BeautyCam.GpuImage.iml" filepath="$PROJECT_DIR$/.idea/modules/GpuImage/BeautyCam.GpuImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyCam.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyCam.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sweetalertdialog/BeautyCam.sweetalertdialog.iml" filepath="$PROJECT_DIR$/.idea/modules/sweetalertdialog/BeautyCam.sweetalertdialog.iml" />
+    </modules>
+  </component>
+</project>
